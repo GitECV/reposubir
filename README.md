@@ -10,3 +10,5 @@ De esta forma podemos ver un efecto visual con un gráfico con todas las ramas q
 
 Antes no nos movimos a la rama principal porque ya estábamos en ella
 
+Cambiamos a la rama master
+Vemos que nos ha cambiado el fichero
