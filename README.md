@@ -10,3 +10,9 @@ De esta forma podemos ver un efecto visual con un gráfico con todas las ramas q
 
 Antes no nos movimos a la rama principal porque ya estábamos en ella
 
+Aquí es donde hemos realizado el merge, vemos como se han unido
+
+Podemos borrar una rama, en caso de que no tengamos pensado volver a utilizarla
+La idea es hacer desaparecer esa rama
+Los commits no se borran, pero podemos borrar el historial, los commits borrados se pueden recuperar
+Creamos una nueva rama para poder hacer un apartado de conflictos
