@@ -8,3 +8,5 @@ Con esto lo podemos ver en una sola linea
 
 De esta forma podemos ver un efecto visual con un gráfico con todas las ramas que estoy desarrollando
 
+Antes no nos movimos a la rama principal porque ya estábamos en ella
+
