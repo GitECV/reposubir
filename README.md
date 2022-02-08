@@ -16,3 +16,6 @@ Podemos borrar una rama, en caso de que no tengamos pensado volver a utilizarla
 La idea es hacer desaparecer esa rama
 Los commits no se borran, pero podemos borrar el historial, los commits borrados se pueden recuperar
 Creamos una nueva rama para poder hacer un apartado de conflictos
+
+El -am es para no tener que hacer el add
+
